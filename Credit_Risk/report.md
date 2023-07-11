@@ -1,6 +1,3 @@
-# credit-risk-classification
-credit-risk-classification challenge files go here
-
 Overview of the Analysis
 
 The purpose of this analysis was to develop machine learning models to predict the risk level of loans based on financial information. The dataset provided contained various financial features related to loans, and the objective was to predict whether a loan is classified as "healthy" (class 0) or "high-risk" (class 1).
@@ -40,4 +37,3 @@ Summary
 Based on the results, Machine Learning Model 2, which was trained with oversampled data, performs better than Model 1 trained on the original data. Model 2 exhibits higher accuracy, precision, and recall for predicting both healthy loans (class 0) and high-risk loans (class 1). The use of oversampling addresses the class imbalance issue, resulting in improved performance and a higher ability to identify high-risk loans.
 
 The choice of the best-performing model depends on the specific problem and the importance of different metrics. If correctly identifying high-risk loans (class 1) is of utmost importance, Model 2 with its higher recall score for class 1 is the recommended choice. However, if a balance between class 0 and class 1 predictions is crucial, Model 1 still performs well overall.
-
