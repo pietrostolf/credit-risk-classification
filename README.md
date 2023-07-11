@@ -1,6 +1,8 @@
 # credit-risk-classification
 credit-risk-classification challenge files go here
 
+Notebook file "credit_risk_classification.ipynb" is located inside the "Credit_Risk" folder. Data file "lending_data.csv" is at "Credit_Risk/Resources".
+
 Overview of the Analysis
 
 The purpose of this analysis was to develop machine learning models to predict the risk level of loans based on financial information. The dataset provided contained various financial features related to loans, and the objective was to predict whether a loan is classified as "healthy" (class 0) or "high-risk" (class 1).
